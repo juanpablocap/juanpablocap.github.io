@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer and DevOps e
 
 Throughout my career, I've worked on a variety of projects spanning from front-end development to server administration. My experience includes:
 
-- **Front-end Development**: Crafting attractive and responsive user interfaces using technologies like HTML5, CSS3, and JavaScript. I've worked with frameworks like React and Vue.js to build dynamic user experiences.
+- **Front-end Development**: Crafting attractive and responsive user interfaces using technologies like HTML5, CSS3, and JavaScript. I've worked with frameworks like React to build dynamic user experiences.
 
-- **Back-end Development**: Designing and building robust APIs using technologies like Node.js and Python.
+- **Back-end Development**: Designing and building robust APIs using technologies like Node.js Express.
 
 ## ⚙️ DevOps Experience
 
