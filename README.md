@@ -38,8 +38,6 @@ In addition to my development and DevOps skills, I also possess knowledge in:
 
 ## 📫 Let's Connect!
 
-I'm excited about collaboration and learning opportunities. If you're interested in working together on exciting projects or just want to connect, feel free to reach out to me via email at juanpablo.dev@example.com or through my LinkedIn profile.
+I'm excited about collaboration and learning opportunities. If you're interested in working together on exciting projects or just want to connect, feel free to reach out to me via email at juanpablocapilla@gmail.com or through my LinkedIn profile.
 
 Thanks for visiting my profile!
-
-*Let's build the future together!* 🌟
