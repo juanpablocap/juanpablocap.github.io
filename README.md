@@ -1,35 +1,45 @@
-Full Stack Developer y DevOps
-¡Bienvenido a mi perfil de GitHub! Soy un apasionado Full Stack Developer y DevOps con experiencia en la creación y despliegue de aplicaciones web innovadoras. Mi enfoque está en la entrega continua, la automatización y la creación de soluciones tecnológicas eficientes y escalables.
+# Hi, I'm Juan Pablo!
 
-🚀 Experiencia en Desarrollo
-A lo largo de mi trayectoria, he trabajado en una variedad de proyectos que abarcan desde el desarrollo front-end hasta la administración del servidor. Mi experiencia incluye:
+## Full Stack Developer and DevOps Enthusiast
 
-Desarrollo Front-end: Creación de interfaces de usuario atractivas y responsivas utilizando tecnologías como HTML5, CSS3 y JavaScript. He trabajado con frameworks como React y Vue.js para construir experiencias de usuario dinámicas.
+Welcome to my GitHub profile! I'm a passionate Full Stack Developer and DevOps enthusiast with experience in creating and deploying innovative web applications. My focus is on continuous delivery, automation, and building efficient, scalable technological solutions.
 
-Desarrollo Back-end: Diseño y creación de APIs robustas utilizando tecnologías como Node.js y Python.
+## 🚀 Development Experience
 
-⚙️ Experiencia en DevOps
-Como entusiasta de DevOps, me apasiona la automatización y la gestión eficiente de la infraestructura. Algunas de las áreas en las que tengo experiencia son:
+Throughout my career, I've worked on a variety of projects spanning from front-end development to server administration. My experience includes:
 
-Automatización de Despliegues: He utilizado herramientas como Docker para crear contenedores y orquestadores como Kubernetes para gestionarlos. También he trabajado con soluciones de despliegue en la nube como Azure DevOps.
+- **Front-end Development**: Crafting attractive and responsive user interfaces using technologies like HTML5, CSS3, and JavaScript. I've worked with frameworks like React and Vue.js to build dynamic user experiences.
 
-Integración Continua y Entrega Continua (CI/CD): He configurado flujos de trabajo de CI/CD utilizando plataformas como Jenkins, GitLab CI y Azure DevOps.
+- **Back-end Development**: Designing and building robust APIs using technologies like Node.js and Python.
 
-Infraestructura como Código (IaC): Tengo experiencia con herramientas como Terraform para definir y gestionar la infraestructura como código, lo que facilita la creación y administración de recursos.
+## ⚙️ DevOps Experience
 
-Gestión de Configuración: He utilizado herramientas como Ansible para automatizar la configuración y la administración de servidores.
+As a DevOps enthusiast, I'm passionate about automation and efficient infrastructure management. Some of the areas I have experience in include:
 
-📚 Formación Actual
-Actualmente estoy dedicando tiempo a prepararme para rendir la licencia de AWS Services Practitioner. Estoy emocionado por ampliar mis habilidades en la nube y aplicarlas a proyectos futuros.
+- **Deployment Automation**: I've utilized tools like Docker for containerization and orchestrators like Kubernetes for management. I've also worked with cloud deployment solutions like Azure DevOps.
 
-💡 Habilidades Adicionales
-Además de mis habilidades en desarrollo y DevOps, también poseo conocimientos en:
+- **Continuous Integration and Continuous Delivery (CI/CD)**: I've set up CI/CD workflows using platforms such as Jenkins, GitLab CI, and Azure DevOps.
 
-Sistemas Operativos: Experiencia en administración de sistemas Linux, optimización y resolución de problemas.
+- **Infrastructure as Code (IaC)**: I have experience with tools like Terraform for defining and managing infrastructure as code, making resource creation and management more streamlined.
 
-Redes: Poseo certificación CCNA de Cisco, lo que me brinda un entendimiento sólido de conceptos de red y comunicación.
+- **Configuration Management**: I've used tools like Ansible to automate server configuration and management.
 
-📫 ¡Hablemos!
-Estoy emocionado por las oportunidades de colaboración y aprendizaje. Si estás interesado en trabajar juntos en proyectos emocionantes o simplemente deseas conectarte, no dudes en contactarme por correo electrónico en juanpablacapilla@gmail.com o a través de mi perfil de LinkedIn.
+## 📚 Current Endeavors
 
-¡Gracias por visitar mi perfil!
+I'm currently dedicating time to prepare for the AWS Services Practitioner certification. I'm excited to expand my cloud skills and apply them to future projects.
+
+## 💡 Additional Skills
+
+In addition to my development and DevOps skills, I also possess knowledge in:
+
+- **Operating Systems**: Experience in Linux system administration, optimization, and troubleshooting.
+
+- **Networking**: I hold a Cisco CCNA certification, providing me with a solid understanding of networking concepts and communication.
+
+## 📫 Let's Connect!
+
+I'm excited about collaboration and learning opportunities. If you're interested in working together on exciting projects or just want to connect, feel free to reach out to me via email at juanpablo.dev@example.com or through my LinkedIn profile.
+
+Thanks for visiting my profile!
+
+*Let's build the future together!* 🌟
